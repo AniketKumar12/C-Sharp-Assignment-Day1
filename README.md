@@ -11,9 +11,9 @@ a.ii. Price
 a.iii. Quantity
 
 a.iv. Type
-```
-b. Input: List of products as follows. 
 
+## Input: List of products as follows. 
+```
 b.i. lettuce, 10.5 RS, 50, Leafy green
 
 b.ii. cabbage, 20 RS, 100, Cruciferous
@@ -83,9 +83,9 @@ a.ii. Narendra Modi,2014
 a.iii. Manmohan Singh, 2004
 
 ```
-```
-b. Output:
 
+## Output:
+```
 b.i.  Find the Prime minister of 2004.
 
 b.ii. Add current prime minister in the dictionary.
