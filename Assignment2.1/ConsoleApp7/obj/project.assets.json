@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\sohesh\\Desktop\\C#_Assignmen_Day1\\Assignment1\\Assignment\\Assignment.csproj",
-      "projectName": "Assignment",
-      "projectPath": "C:\\Users\\sohesh\\Desktop\\C#_Assignmen_Day1\\Assignment1\\Assignment\\Assignment.csproj",
+      "projectUniqueName": "C:\\Users\\sohesh\\source\\repos\\ConsoleApp7\\ConsoleApp7\\ConsoleApp7.csproj",
+      "projectName": "ConsoleApp7",
+      "projectPath": "C:\\Users\\sohesh\\source\\repos\\ConsoleApp7\\ConsoleApp7\\ConsoleApp7.csproj",
       "packagesPath": "C:\\Users\\sohesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sohesh\\Desktop\\C#_Assignmen_Day1\\Assignment1\\Assignment\\obj\\",
+      "outputPath": "C:\\Users\\sohesh\\source\\repos\\ConsoleApp7\\ConsoleApp7\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

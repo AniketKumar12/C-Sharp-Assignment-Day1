@@ -1,0 +1,11 @@
+C:\Users\sohesh\source\repos\Assignmnet\Assignmnet\bin\Debug\netcoreapp2.0\Assignmnet.deps.json
+C:\Users\sohesh\source\repos\Assignmnet\Assignmnet\bin\Debug\netcoreapp2.0\Assignmnet.runtimeconfig.json
+C:\Users\sohesh\source\repos\Assignmnet\Assignmnet\bin\Debug\netcoreapp2.0\Assignmnet.runtimeconfig.dev.json
+C:\Users\sohesh\source\repos\Assignmnet\Assignmnet\bin\Debug\netcoreapp2.0\Assignmnet.dll
+C:\Users\sohesh\source\repos\Assignmnet\Assignmnet\bin\Debug\netcoreapp2.0\Assignmnet.pdb
+C:\Users\sohesh\source\repos\Assignmnet\Assignmnet\obj\Debug\netcoreapp2.0\Assignmnet.csprojResolveAssemblyReference.cache
+C:\Users\sohesh\source\repos\Assignmnet\Assignmnet\obj\Debug\netcoreapp2.0\Assignmnet.csproj.CoreCompileInputs.cache
+C:\Users\sohesh\source\repos\Assignmnet\Assignmnet\obj\Debug\netcoreapp2.0\Assignmnet.AssemblyInfoInputs.cache
+C:\Users\sohesh\source\repos\Assignmnet\Assignmnet\obj\Debug\netcoreapp2.0\Assignmnet.AssemblyInfo.cs
+C:\Users\sohesh\source\repos\Assignmnet\Assignmnet\obj\Debug\netcoreapp2.0\Assignmnet.dll
+C:\Users\sohesh\source\repos\Assignmnet\Assignmnet\obj\Debug\netcoreapp2.0\Assignmnet.pdb

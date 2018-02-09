@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\sohesh\\source\\repos\\Asignment1.3\\Asignment1.3\\Asignment1.3.csproj",
+      "projectUniqueName": "C:\\Users\\sohesh\\Desktop\\C#_Assignmen_Day1\\Asignment1.3\\Asignment1.3\\Asignment1.3.csproj",
       "projectName": "Asignment1.3",
-      "projectPath": "C:\\Users\\sohesh\\source\\repos\\Asignment1.3\\Asignment1.3\\Asignment1.3.csproj",
+      "projectPath": "C:\\Users\\sohesh\\Desktop\\C#_Assignmen_Day1\\Asignment1.3\\Asignment1.3\\Asignment1.3.csproj",
       "packagesPath": "C:\\Users\\sohesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sohesh\\source\\repos\\Asignment1.3\\Asignment1.3\\obj\\",
+      "outputPath": "C:\\Users\\sohesh\\Desktop\\C#_Assignmen_Day1\\Asignment1.3\\Asignment1.3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
