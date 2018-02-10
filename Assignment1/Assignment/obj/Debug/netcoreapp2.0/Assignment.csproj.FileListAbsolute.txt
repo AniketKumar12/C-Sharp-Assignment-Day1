@@ -9,3 +9,14 @@ c:\users\sohesh\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assig
 c:\users\sohesh\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.AssemblyInfo.cs
 c:\users\sohesh\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.dll
 c:\users\sohesh\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.pdb
+C:\Users\sohesh\Desktop\C#_Assignmen_Day1\Assignment1\Assignment\bin\Debug\netcoreapp2.0\Assignment.deps.json
+C:\Users\sohesh\Desktop\C#_Assignmen_Day1\Assignment1\Assignment\bin\Debug\netcoreapp2.0\Assignment.runtimeconfig.json
+C:\Users\sohesh\Desktop\C#_Assignmen_Day1\Assignment1\Assignment\bin\Debug\netcoreapp2.0\Assignment.runtimeconfig.dev.json
+C:\Users\sohesh\Desktop\C#_Assignmen_Day1\Assignment1\Assignment\bin\Debug\netcoreapp2.0\Assignment.dll
+C:\Users\sohesh\Desktop\C#_Assignmen_Day1\Assignment1\Assignment\bin\Debug\netcoreapp2.0\Assignment.pdb
+C:\Users\sohesh\Desktop\C#_Assignmen_Day1\Assignment1\Assignment\obj\Debug\netcoreapp2.0\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\sohesh\Desktop\C#_Assignmen_Day1\Assignment1\Assignment\obj\Debug\netcoreapp2.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\sohesh\Desktop\C#_Assignmen_Day1\Assignment1\Assignment\obj\Debug\netcoreapp2.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\sohesh\Desktop\C#_Assignmen_Day1\Assignment1\Assignment\obj\Debug\netcoreapp2.0\Assignment.AssemblyInfo.cs
+C:\Users\sohesh\Desktop\C#_Assignmen_Day1\Assignment1\Assignment\obj\Debug\netcoreapp2.0\Assignment.dll
+C:\Users\sohesh\Desktop\C#_Assignmen_Day1\Assignment1\Assignment\obj\Debug\netcoreapp2.0\Assignment.pdb

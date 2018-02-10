@@ -7,7 +7,7 @@ namespace Assignment
    public  class Program
     {
         string ProdutName;
-        string ProdutPrice;
+        double ProdutPrice;
         int ProdutQuantity;
         string ProdutType;
 
@@ -22,7 +22,7 @@ namespace Assignment
             get { return ProdutName; }
             set { ProdutName = value; }
         }
-        public string Price
+        public double Price
         {
             get { return ProdutPrice; }
             set { ProdutPrice = value; }
@@ -34,7 +34,7 @@ namespace Assignment
         }
         public override string ToString()
         {
-            return "ProductName:-" + Name + " " +"ProductPrice:-"+ Price+" "+"ProdctQuantity:-"+Quantity+" "+"ProductType:-"+Type;
+            return "ProductName:-" + Name + " " +"ProductPrice:-"+ Price+" RS"+" "+"ProdctQuantity:-"+Quantity+" "+"ProductType:-"+Type;
         }
        static List<Program> newlist = new List<Program>();
 
@@ -68,20 +68,20 @@ namespace Assignment
             obj.ProdutType = ProdutType1;
             Program.newlist.Add(obj);*/
             List<Program> newlist = new List<Program>() {
-                 new Program(){ Name="lettuce", Price="10.5 RS",Quantity=50,Type="Leafy green"},
-                 new Program(){ Name="cabbage", Price="20 RS",Quantity=100,Type="Cruciferous"},
-                 new Program(){ Name="pumpkin", Price="30 RS",Quantity=30,Type="Marrow"},
-                 new Program(){ Name="cauliflower", Price="10 RS",Quantity=25,Type="Cruciferous"},
-                 new Program(){ Name="zucchini", Price="20.5 RS",Quantity=50,Type="Marrow"},
-                 new Program(){ Name="yam", Price="30 RS",Quantity=50,Type="Root"},
-                 new Program(){ Name="spinach", Price="10 RS",Quantity=100,Type="Leafy green"},
-                 new Program(){ Name="broccoli", Price="20.2 RS",Quantity=75,Type="Cruciferous"},
-                 new Program(){ Name="Garlic", Price="30 RS",Quantity=20,Type="Leafy green"},
-                 new Program(){ Name="silverbeet", Price="10 RS",Quantity=50,Type="Marrow"}
+                 new Program(){ Name="lettuce", Price=10.5,Quantity=50,Type="Leafy green"},
+                 new Program(){ Name="cabbage", Price=20,Quantity=100,Type="Cruciferous"},
+                 new Program(){ Name="pumpkin", Price=30,Quantity=30,Type="Marrow"},
+                 new Program(){ Name="cauliflower", Price=10,Quantity=25,Type="Cruciferous"},
+                 new Program(){ Name="zucchini", Price=20.5,Quantity=50,Type="Marrow"},
+                 new Program(){ Name="yam", Price=30,Quantity=50,Type="Root"},
+                 new Program(){ Name="spinach", Price=10,Quantity=100,Type="Leafy green"},
+                 new Program(){ Name="broccoli", Price=20.2 ,Quantity=75,Type="Cruciferous"},
+                 new Program(){ Name="Garlic", Price=30 ,Quantity=20,Type="Leafy green"},
+                 new Program(){ Name="silverbeet", Price=10,Quantity=50,Type="Marrow"}
             };
             Console.WriteLine("total number of Product in Proct List:-{0}", newlist.Count);
             Console.WriteLine("After Adding Product");
-            newlist.Add(new Program() { Name = "Potato", Price = "10 RS", Quantity = 50, Type = "Root" } );
+            newlist.Add(new Program() { Name = "Potato", Price = 10, Quantity = 50, Type = "Root" } );
             /*Program obj = new Program() { Name = "Potato", Price = "10 RS", Quantity = 50, Type = "Root"  };
             Program.newlist.Add(obj);*/
             Console.WriteLine("total number of Product in Proct List:-{0}", newlist.Count);
@@ -111,7 +111,26 @@ namespace Assignment
                     
             }
 
-          
+            double total = 0;
+            foreach (var item in newlist)
+            {
+                if (item.Name.Equals("lettuce"))
+                {
+                    total=total + (1)*item.Price;
+                }
+                if (item.Name.Equals("zucchini,"))
+                {
+                    total = total + (2) * item.Price;
+                }
+                if (item.Name.Equals("broccoli"))
+                {
+                    total = total + (1) * item.Price;
+                }
+              
+
+            }
+            Console.WriteLine("Rounded Value:-{0}",total);
+
 
 
 
