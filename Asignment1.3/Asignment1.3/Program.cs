@@ -40,7 +40,7 @@ namespace Asignment1._3
             Console.WriteLine("Prime Minister in 2004:-");
             foreach (var primeMini in obj.Values)
             {
-                if (primeMini.Year.Equals("2004"))
+                if (primeMini.Year.Equals(2004))
                 {
                     Console.WriteLine(primeMini);
                 }
